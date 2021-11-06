@@ -1,2 +1,1 @@
-# gostuslugi.ru
-gostuslugi.ru
+none
